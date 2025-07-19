@@ -1,7 +1,9 @@
+# Docker container for Dafny
+
 [![Docker Pulls](https://img.shields.io/docker/pulls/prenone/dafny.svg)](https://hub.docker.com/r/prenone/dafny)
 [![CI](https://github.com/prenone/dafny-docker/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/prenone/dafny-docker/actions/workflows/docker-publish.yml)
 
-# prenone/dafny
+![Dafny Logo](https://dafny.org/images/dafny-logo.jpg)
 
 A Docker image bundling the [Dafny](https://github.com/dafny-lang/dafny) Programming and Verification Language on top of the official Microsoft .NET SDK image.
 
